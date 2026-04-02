@@ -1,0 +1,28 @@
+// ==========================================================================
+// Kiemkracht VZW — Huisstijl Variabelen
+// ==========================================================================
+
+// Merkkleuren
+$kiemkracht-green:   #006847;
+$kiemkracht-sand:    #f1d09f;
+$kiemkracht-petrol:  #00626c;
+$kiemkracht-orange:  #cb6015;
+$kiemkracht-burgundy: #782f40;
+$kiemkracht-cream:   #fcf3e7;
+
+// Bootstrap variabelen overschrijven met Kiemkracht kleuren
+$primary:   $kiemkracht-green;
+$secondary: $kiemkracht-petrol;
+$info:      $kiemkracht-petrol;
+$warning:   $kiemkracht-orange;
+$body-bg:   $kiemkracht-cream;
+$body-color: #333333;
+
+// Typografie
+$font-family-sans-serif: 'Satoshi', Arial, sans-serif;
+$font-size-base: 0.95rem;
+$line-height-base: 1.6;
+
+// Componenten
+$border-radius: 0.5rem;
+$card-border-width: 0;
